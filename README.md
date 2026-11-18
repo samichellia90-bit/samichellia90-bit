@@ -8,6 +8,7 @@ I work on small language models, model compression and evaluation methodology. I
 
 | Project | Summary | Stack |
 |---|---|---|
+| [unified-xai-audio-xray](https://github.com/samichellia90-bit/unified-xai-audio-xray) | Explainable AI on chest X-rays and audio: a classifier at 0.934 test accuracy (AUC 0.987) and a faithfulness benchmark of Grad-CAM, LIME, SHAP and occlusion against random references | PyTorch, Streamlit, Docker |
 | [spatio-temporal-deepfake-detection](https://github.com/samichellia90-bit/spatio-temporal-deepfake-detection) | Deepfake video detection trained on FaceForensics++: AUC 0.960 in-domain, 0.741 on the unseen Celeb-DF v2, and a robustness study over 16 perturbations | PyTorch, timm |
 | [gp-active-learning-higgs](https://github.com/samichellia90-bit/gp-active-learning-higgs) | Genetic programming on ATLAS Higgs data: 1.6 % of the labels match full-data training, and uncertainty sampling loses to random sampling in 9 seeds out of 10 | NumPy, DEAP, scikit-learn |
 | [bal-spark-incremental-pipeline](https://github.com/samichellia90-bit/bal-spark-incremental-pipeline) | Incremental storage of 26 million French addresses with reversible daily diffs and as-of reconstruction | Java, Spark SQL, Hive |
